@@ -1,0 +1,7 @@
+{
+    "username": "user",
+    "password": "pass",
+    "host": "localhost",
+    "port": 22222,
+    "database": "accapi"
+}
